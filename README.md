@@ -1,4 +1,4 @@
-ustomer Sales Analysis is a data analysis project that studies customer purchasing behavior and sales trends. The goal of this project is to analyze customer data and visualize important insights using a dashboard. This helps businesses understand customer spending patterns, popular products, and overall sales performance.
+Customer Sales Analysis is a data analysis project that studies customer purchasing behavior and sales trends. The goal of this project is to analyze customer data and visualize important insights using a dashboard. This helps businesses understand customer spending patterns, popular products, and overall sales performance.
 
 Objective
 
